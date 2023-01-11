@@ -1,5 +1,5 @@
 
-## My own personal TEMPLATE and usfull commands
+## My own personal template and Useful commands
 
 ## Temp
 - custom user model
@@ -14,7 +14,7 @@
 * .\myenv\Scripts\activate
 * pip install requirements.txt
 
-## Usfull commands
+## Useful commands
 * py .\manage.py makemigrations
 * py .\manage.py migrate
 * py .\manage.py runserver
