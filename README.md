@@ -42,7 +42,7 @@ password: 123
 * git remote add origin (link to github repo)
 * git push -u origin main
 
-## Git brench
+## Git branch
 *  git pull
 *  git checkout -b "bramchname/xxx"
 *  git add (files)
