@@ -13,5 +13,5 @@ class Profile(models.Model):
         verbose_name = "Profile"
         verbose_name_plural = "Profiles"
 
-    def __str__(self):
-        return (self.full_name)
+    # def __str__(self):
+    #     return (self.full_name)

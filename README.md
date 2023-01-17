@@ -1,18 +1,24 @@
 
-## My own personal template and Useful commands
+## My template and Useful commands
 
-## Temp
+## This is a django ready to use all around template
+
+## Features
 - custom user model
 - auth with JWT
-- profiles
-- 2 apps(uuid,FK,time)
+- profiles - signal to create (one to one to user)
+- 2 apps( uuid,FK,(timtimestempse)
 - .env
-- image, files
+- image, files (Product Model)
+- Full Crud to profiles and Products model
 
 ## Setup
+* git clone https://github.com/Orsmad/django_general_template.
+* cd .\django_general_template
 * python -m virtualenv myenv
 * .\myenv\Scripts\activate
-* pip install requirements.txt
+* pip install -r requirements.txt
+* py .\manage.py runserver
 
 ## Useful commands
 * py .\manage.py makemigrations
