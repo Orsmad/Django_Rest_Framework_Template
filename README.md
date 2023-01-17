@@ -1,7 +1,7 @@
 
 ## My template and Useful commands
 
-## This is a django ready to use all around template
+## This is a DRF (Django Rest-Framework) ready to use all around template
 
 ## Features
 - custom user model
