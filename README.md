@@ -13,7 +13,7 @@
 - Full Crud to profiles and Products model
 
 ## Setup
-* git clone https://github.com/Orsmad/django_general_template.
+* git clone https://github.com/Orsmad/Django_Rest_Framework_Template.git
 * cd .\django_general_template
 * python -m virtualenv myenv
 * .\myenv\Scripts\activate
