@@ -7,7 +7,7 @@
 - custom user model
 - auth with JWT
 - profiles - signal to create (one to one to user)
-- 2 apps( uuid,FK,(timtimestempse)
+- 2 apps( uuid, FK, time)
 - .env
 - image, files (Product Model)
 - Full Crud to profiles and Products model
